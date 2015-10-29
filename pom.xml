@@ -12,7 +12,7 @@
 
     <modules>
 		<module>Fatorial-soma</module>
-		<module>PFatorial</module>
+		<module>Fatorial</module>
 		<module>Mdc</module>
 		<module>PI</module>
 		<module>Potencia</module>
@@ -20,7 +20,8 @@
 		<module>Primo</module>
 		<module>SomaNaturais</module>
 		<module>propriedade153/module>
-		</modules>
+	
+   </modules>
 
     <build>
         <pluginManagement>
@@ -41,7 +42,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.10</version>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
